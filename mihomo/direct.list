@@ -1,0 +1,13 @@
+# 代理补充列表
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,llkj.top
+
+# 域名关键字匹配
+
+# 公司内网域名
+DOMAIN-SUFFIX,inspur.com
+DOMAIN-SUFFIX,myhtime.com
+
+# 公司内网ip
+IP-CIDR,10.0.0.0/8
