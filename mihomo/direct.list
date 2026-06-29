@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,dpdns.org
 # 公司内网域名
 DOMAIN-SUFFIX,inspur.com
 DOMAIN-SUFFIX,myhtime.com
+DOMAIN-SUFFIX,inspur.com.cdngtm.com
+DOMAIN-SUFFIX,newmail.inspur.com.cdngtm.com
 
 # 域名关键字匹配
 
